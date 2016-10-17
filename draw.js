@@ -90,4 +90,4 @@ function watch(){
             c.fillStyle='#9E3535';   
             c.fillText('Ω', 180, 80);
     };                 
-setInterval(watch,1000);
+setInterval(watch,0);
