@@ -1,4 +1,5 @@
 function watch(){
+    alert(1);
     var date=new Date();
     var h=date.getHours();
     var m=date.getMinutes();
